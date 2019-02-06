@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MohamedBayo_CE02
+namespace ASD_Day1
 {
-    class Program
+    class Menu
     {
-        static void Main(string[] args)
-        {
-            Menu.Menus();
-        }
     }
 }

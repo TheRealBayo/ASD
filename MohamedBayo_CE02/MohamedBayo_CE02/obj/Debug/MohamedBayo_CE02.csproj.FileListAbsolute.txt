@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\ASD\MohamedBayo_CE02\MohamedBayo_CE02\bin\Debug\MohamedBayo_CE02.exe.config
+\\vmware-host\Shared Folders\Desktop\ASD\MohamedBayo_CE02\MohamedBayo_CE02\bin\Debug\MohamedBayo_CE02.exe
+\\vmware-host\Shared Folders\Desktop\ASD\MohamedBayo_CE02\MohamedBayo_CE02\bin\Debug\MohamedBayo_CE02.pdb
+\\vmware-host\Shared Folders\Desktop\ASD\MohamedBayo_CE02\MohamedBayo_CE02\obj\Debug\MohamedBayo_CE02.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ASD\MohamedBayo_CE02\MohamedBayo_CE02\obj\Debug\MohamedBayo_CE02.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\ASD\MohamedBayo_CE02\MohamedBayo_CE02\obj\Debug\MohamedBayo_CE02.exe
+\\vmware-host\Shared Folders\Desktop\ASD\MohamedBayo_CE02\MohamedBayo_CE02\obj\Debug\MohamedBayo_CE02.pdb
